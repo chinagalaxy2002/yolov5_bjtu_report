@@ -1,0 +1,2 @@
+# yolov5_bjtu_report
+这是北京交通大学yolov5目标检测任务作业
